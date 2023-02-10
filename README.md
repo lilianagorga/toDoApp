@@ -4,4 +4,4 @@
 
 - HTML
 - CSS
-- JavaScript
+- Vanilla JavaScript
