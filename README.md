@@ -1,4 +1,4 @@
-# todoApp
+# TO DO APP
 
 ## Tech Stack =
 
